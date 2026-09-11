@@ -14,7 +14,7 @@ L.pack()
 L = Label(GUI,text='zzz')
 L.pack()
 
-L = Label(GUI,text='27')
+L = Label(GUI,text='27!?')
 L.pack()
 
 GUI.mainloop()
